@@ -11,7 +11,7 @@
 
 
 ## The languages we are working with are;
-- [x] Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+- [x] Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 - [x] Julia <img src="https://julialang.org/assets/infra/logo.svg" alt="rust" width="20" height="20"/> </a>
 - [x] C <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 - [ ] PHP
